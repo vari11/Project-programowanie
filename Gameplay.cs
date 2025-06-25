@@ -40,7 +40,7 @@ class Game
         {
             CreateRandomNPC("Grandma"),
             CreateRandomNPC("Teenager", true),
-            new NPC("Conductor", 28, 8)
+            new NPC("Conductor", 28, 8),
         };
 
         while (gameRunning)
